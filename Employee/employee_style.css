@@ -1,0 +1,26 @@
+/*.bg{background: url("../image/background.jpg") no-repeat; width: 100%;height: 100%;}
+.form-container{
+	border: 2px solid #blue;
+}*/
+body{
+	background-image: url(../image/background3.jpg);
+	background-size: cover;
+	color:#fff;
+}
+.form-container{
+	border:1px solid #fff;
+	padding: 30px 40px;
+	margin-top: 50px;
+	border-top-right-radius: 60px;
+	border-bottom-left-radius: 60px;
+
+}
+.h2{
+	border:1px solid #fff;
+	color: #fff;
+	border-top-right-radius: 60px;
+	border-bottom-left-radius: 60px;
+	border-color: #4455;
+	  text-shadow: 2px 2px #ff0000;
+
+}
